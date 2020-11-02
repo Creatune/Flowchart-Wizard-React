@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./styles.css";
-import ColoredRect from "./App.js";
+import Graphics from "./App.js";
 
-ReactDOM.render(<ColoredRect />, document.getElementById("root"));
+ReactDOM.render(<Graphics />, document.getElementById("root"));

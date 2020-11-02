@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import {Graphics} from "flowchart-maker-rjoshi"
+
 import {
   Stage,
   Layer,
