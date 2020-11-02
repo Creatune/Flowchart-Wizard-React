@@ -1,6 +1,6 @@
 {
   "name": "flowchart-maker-rjoshi",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -13,6 +13,7 @@
     "react-konva": "^16.13.0-6",
     "react-scripts": "3.4.3"
   },
+  "license": "Apache 2.0",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
