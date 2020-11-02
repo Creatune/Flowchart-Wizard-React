@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-<h1>Find the library at https://www.npmjs.com/package/flowchart-maker-rjoshi</h1>
+<h1 target="_blank">Find the library at https://www.npmjs.com/package/flowchart-maker-rjoshi</h1>
 
 
 
