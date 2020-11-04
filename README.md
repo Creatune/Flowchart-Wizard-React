@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 <h1>Usage:
-import {Graphics} from "@rjoshi/flowchart-maker"</h1>
+  <code>import {Graphics} from "@rjoshi/flowchart-maker"</code>
 
 
 <h2>Find the library at https://www.npmjs.com/package/flowchart-maker-rjoshi</h2>
