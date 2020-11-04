@@ -1,9 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+Usage:
+import {Graphics} from "@rjoshi/flowchart-maker"
+
+
 <h1>Find the library at https://www.npmjs.com/package/flowchart-maker-rjoshi</h1>
-
-
 
 
 
